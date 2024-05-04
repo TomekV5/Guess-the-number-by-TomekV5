@@ -1,0 +1,14 @@
+D:\visi stidion\GTN\GTN\bin\Debug\net8.0\GTN.exe
+D:\visi stidion\GTN\GTN\bin\Debug\net8.0\GTN.deps.json
+D:\visi stidion\GTN\GTN\bin\Debug\net8.0\GTN.runtimeconfig.json
+D:\visi stidion\GTN\GTN\bin\Debug\net8.0\GTN.dll
+D:\visi stidion\GTN\GTN\bin\Debug\net8.0\GTN.pdb
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.GeneratedMSBuildEditorConfig.editorconfig
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.AssemblyInfoInputs.cache
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.AssemblyInfo.cs
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.csproj.CoreCompileInputs.cache
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.dll
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\refint\GTN.dll
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.pdb
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\GTN.genruntimeconfig.cache
+D:\visi stidion\GTN\GTN\obj\Debug\net8.0\ref\GTN.dll
